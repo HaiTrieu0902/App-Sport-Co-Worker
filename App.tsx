@@ -50,6 +50,7 @@ function Section({children, title}: SectionProps): React.JSX.Element {
           },
         ]}>
         {children}
+        <Text> Tao la hai trieu</Text>
       </Text>
     </View>
   );
